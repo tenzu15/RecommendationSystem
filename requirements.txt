@@ -2,7 +2,7 @@ tensorflow
 streamlit
 pandas
 numpy
-import keras
+keras
 scikit-learn
 yaml
 streamlit_authenticator
