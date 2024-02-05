@@ -1,0 +1,8 @@
+tensorflow
+streamlit
+pandas
+numpy
+import keras
+scikit-learn
+yaml
+streamlit_authenticator
